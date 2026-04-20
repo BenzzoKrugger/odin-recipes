@@ -1,9 +1,9 @@
 # The Odin Project | Recipes
 
 ## Version 0.1
-Tento projekt slouží k seznámení HTML základů bez CSS stylů. Styly budou přidány později.
+This project for HTML Foundations in The Odin Project Foundations Course uses HTML only without any styling with CSS. Styling will be added at a later time.
 
-### Použité dovednosti
+### Skills used
 
 - HTML
 - Git & GitHub
